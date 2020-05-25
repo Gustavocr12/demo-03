@@ -1,2 +1,3 @@
 ##Código para eliminar equipo de cómputo
 Procedimiento para dar de baja equipo de cómputo
+## El equipo se da de baja en forma lógica
