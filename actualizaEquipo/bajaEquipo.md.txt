@@ -1,0 +1,2 @@
+##Código para eliminar equipo de cómputo
+Procedimiento para dar de baja equipo de cómputo
